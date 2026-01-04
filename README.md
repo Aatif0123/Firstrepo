@@ -3,6 +3,7 @@ hii guys this is my starting journey of how to code as this is my first reposito
 <br>
 i learned how to use git and make changes in my repository through vscode and learned add/commit and push command and will update my github from vscode only 
 <br>
+this is day 3 of me learning code lets see what we can learn
 so stay with me as i keep updating u guys my journey ahead....
 <br>
 author - Md Aatif Hussain
